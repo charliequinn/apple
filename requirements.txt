@@ -8,7 +8,7 @@ certifi==2020.12.5
     # via sentry-sdk
 fastapi==0.65.1
     # via fastapitest (setup.py)
-pydantic==1.8.2
+pydantic==1.10.13
     # via fastapi
 sentry-sdk==1.1.0
     # via fastapitest (setup.py)
